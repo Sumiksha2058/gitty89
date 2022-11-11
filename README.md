@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gitty89
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding and computer language
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by maling me
 
 <!---
