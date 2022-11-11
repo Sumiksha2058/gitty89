@@ -1,0 +1,138 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+  transition-duration: 7sec;
+}
+
+body{
+background-color: #4fc0a7;
+text-align: right;
+}
+.navbar-brand img{
+width: 180px;
+}
+
+
+#navbar{
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+.nav{
+  font-size: 22px;
+  font-weight: 600;
+  
+}
+.nav-item a{
+  color: skyblue;
+}
+.nav-item a:hover{
+  color: #32a8a8;
+}
+.btn{
+  margin: 5px;
+}
+.content-area{
+  padding: 15em;
+  padding-bottom: 3em;
+  color: tomato;
+  font-family: 'Lilita One', cursive;
+}
+.title-1{
+  text-align: center;
+  
+}
+.title-1 p{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#About_us{
+  transition: 5s;
+}
+.container-2{
+background-image: url(images/about.png);
+background-repeat: no-repeat;
+background-size: 100%;
+padding: 10em;
+}
+h3 span{
+  color: white;
+}
+.about-col-1 h1{
+  color: skyblue;
+  font-size: 18px;
+}
+.about-col-1 h3::first-line{
+  color: tomato;
+}
+.about-col-1 p{
+font-size: 14px;
+}
+.content-area-1{
+  border-radius: 7px;
+  background-color:white;
+  padding: 10.5em;
+  display: flex;
+  justify-content: space-between;
+  background-position: 800;
+}
+
+.testi{
+  text-align: left;
+}
+.suggest-1{
+  height: 300px;
+  width: 250px;
+  text-align: center;
+  background-color: transparent;
+  box-shadow: 2px 2px 5px #000020;
+  margin-left: 2em;
+
+}
+
+.suggest-1 button{
+  border-radius: 30px;
+  font-size: 22px;
+  background-color: transparent;
+  padding: 5px;
+  box-shadow: 2px 2px 5px #1f1f23;
+  border: solid 1px none;
+}
+.suggest-1 button:hover{
+  background-color: orangered;
+}
+.suggest-1 img{
+width: 70px;
+border-radius: 50px;
+}
+#star{
+  color: orange;
+}
+
+.footer{
+  background-color: #1f1f23;
+  padding-top: 4em;
+  padding-left: 15em ;
+  padding-right: 15em;
+  bottom: 0;
+}
+.row-1{
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+}
+.col-3{
+  text-align: left;
+}
+.col-3 h2{
+  color: green;
+}
+.col-3 p{
+  color: white;
+}
+#copyright{
+color: white;
+text-align: center;
+font-size: 22px;
+}
